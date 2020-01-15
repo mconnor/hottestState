@@ -1,0 +1,96 @@
+﻿<flash_project name="hottestState Project" version="1">
+    <project_folder name="source" expanded="false">
+        <project_folder name="com" expanded="true">
+            <project_folder name="mammoth" expanded="true">
+                <project_file path=".:com/mammoth/Navigation.as" filetype="as" />
+                <project_file path=".:com/mammoth/Controller.as" filetype="as" />
+                <project_file path=".:com/mammoth/ScrollingTextBox.as" filetype="as" />
+                <project_file path=".:com/mammoth/ColorTransformTween.as" filetype="as" />
+                <project_file path=".:com/mammoth/ShellClass.as" filetype="as" />
+                <project_file path=".:com/mammoth/PhotoClass.as" filetype="as" />
+            </project_folder>
+            <project_folder name="robertpenner" expanded="false">
+                <project_folder name="easing" expanded="true">
+                    <project_file path=".:com/robertpenner/easing/Back.as" filetype="as" />
+                    <project_file path=".:com/robertpenner/easing/Bounce.as" filetype="as" />
+                    <project_file path=".:com/robertpenner/easing/Sine.as" filetype="as" />
+                    <project_file path=".:com/robertpenner/easing/Linear.as" filetype="as" />
+                    <project_file path=".:com/robertpenner/easing/Elastic.as" filetype="as" />
+                    <project_file path=".:com/robertpenner/easing/Expo.as" filetype="as" />
+                    <project_file path=".:com/robertpenner/easing/easing_readme.txt" filetype="txt" />
+                    <project_file path=".:com/robertpenner/easing/Quart.as" filetype="as" />
+                    <project_file path=".:com/robertpenner/easing/Cubic.as" filetype="as" />
+                    <project_file path=".:com/robertpenner/easing/Quint.as" filetype="as" />
+                    <project_file path=".:com/robertpenner/easing/Quad.as" filetype="as" />
+                    <project_file path=".:com/robertpenner/easing/Circ.as" filetype="as" />
+                </project_folder>
+            </project_folder>
+        </project_folder>
+        <project_file path=".:aboutCOPY.as" filetype="as" />
+        <project_file path=".:soundtrackCopy.as" filetype="as" />
+        <project_file path=".:initSWF.as" filetype="as" />
+        <project_file path=".:bioCopy.as" filetype="as" />
+        <project_file path=".:logoLinks.as" filetype="as" />
+        <project_file path=".:hottestStateResize5.fla" filetype="fla" profile="" def_file="true" />
+    </project_folder>
+    <project_folder name="release" expanded="false">
+        <project_folder name="photos" expanded="false">
+            <project_file path="..:release/photos/HS03025.jpg" filetype="jpg" />
+            <project_file path="..:release/photos/The-Black-Keys.jpg" filetype="jpg" />
+            <project_file path="..:release/photos/Rocha.jpg" filetype="jpg" />
+            <project_file path="..:release/photos/HS11007.jpg" filetype="jpg" />
+            <project_file path="..:release/photos/HS04128.jpg" filetype="jpg" />
+            <project_file path="..:release/photos/HS01047.jpg" filetype="jpg" />
+            <project_file path="..:release/photos/HS14028.jpg" filetype="jpg" />
+            <project_file path="..:release/photos/MWard.jpg" filetype="jpg" />
+            <project_file path="..:release/photos/81790004.jpg" filetype="jpg" />
+            <project_file path="..:release/photos/JesseHarris.jpg" filetype="jpg" />
+            <project_file path="..:release/photos/Feist.jpg" filetype="jpg" />
+            <project_file path="..:release/photos/Bright-Eyes.jpg" filetype="jpg" />
+            <project_file path="..:release/photos/Tony-Scherr.jpg" filetype="jpg" />
+            <project_file path="..:release/photos/Norah-Jones.jpg" filetype="jpg" />
+            <project_file path="..:release/photos/HS06016.jpg" filetype="jpg" />
+            <project_file path="..:release/photos/Brad-Mehldau.jpg" filetype="jpg" />
+            <project_file path="..:release/photos/DSC09643_RT.jpg" filetype="jpg" />
+            <project_file path="..:release/photos/Willie-Nelson.jpg" filetype="jpg" />
+            <project_file path="..:release/photos/Cat-Power.jpg" filetype="jpg" />
+            <project_file path="..:release/photos/Emmylou-Harris.jpg" filetype="jpg" />
+            <project_file path="..:release/photos/HS09007.jpg" filetype="jpg" />
+            <project_file path="..:release/photos/HS03046.jpg" filetype="jpg" />
+            <project_file path="..:release/photos/HS06055.jpg" filetype="jpg" />
+            <project_file path="..:release/photos/HS02039.jpg" filetype="jpg" />
+        </project_folder>
+        <project_folder name="photosLarge" expanded="false">
+            <project_file path="..:release/photosLarge/Norah-Jones.jpg" filetype="jpg" />
+            <project_file path="..:release/photosLarge/MWard.jpg" filetype="jpg" />
+            <project_file path="..:release/photosLarge/HS06055.jpg" filetype="jpg" />
+            <project_file path="..:release/photosLarge/HS06016.jpg" filetype="jpg" />
+            <project_file path="..:release/photosLarge/Willie-Nelson.jpg" filetype="jpg" />
+            <project_file path="..:release/photosLarge/HS01047.jpg" filetype="jpg" />
+            <project_file path="..:release/photosLarge/HS03046.jpg" filetype="jpg" />
+            <project_file path="..:release/photosLarge/Feist.jpg" filetype="jpg" />
+            <project_file path="..:release/photosLarge/The-Black-Keys.jpg" filetype="jpg" />
+            <project_file path="..:release/photosLarge/Rocha.jpg" filetype="jpg" />
+            <project_file path="..:release/photosLarge/Tony-Scherr.jpg" filetype="jpg" />
+            <project_file path="..:release/photosLarge/THS_2058.jpg" filetype="jpg" />
+            <project_file path="..:release/photosLarge/Brad-Mehldau.jpg" filetype="jpg" />
+            <project_file path="..:release/photosLarge/Emmylou-Harris.jpg" filetype="jpg" />
+            <project_file path="..:release/photosLarge/Cat-Power.jpg" filetype="jpg" />
+            <project_file path="..:release/photosLarge/HS03025.jpg" filetype="jpg" />
+            <project_file path="..:release/photosLarge/HS04128.jpg" filetype="jpg" />
+            <project_file path="..:release/photosLarge/HS11007.jpg" filetype="jpg" />
+            <project_file path="..:release/photosLarge/HS09007.jpg" filetype="jpg" />
+            <project_file path="..:release/photosLarge/Bright-Eyes.jpg" filetype="jpg" />
+            <project_file path="..:release/photosLarge/81790004.jpg" filetype="jpg" />
+            <project_file path="..:release/photosLarge/JesseHarris.jpg" filetype="jpg" />
+            <project_file path="..:release/photosLarge/HS14028.jpg" filetype="jpg" />
+            <project_file path="..:release/photosLarge/HS02039.jpg" filetype="jpg" />
+            <project_file path="..:release/photosLarge/DSC09643_RT.jpg" filetype="jpg" />
+        </project_folder>
+        <project_file path="..:release/hottestState.html" filetype="html" />
+        <project_file path="..:release/AC_RunActiveContent.js" filetype="js" />
+        <project_file path="..:release/hottestState.swf" filetype="swf" />
+        <project_file path="..:release/config.xml" filetype="xml" />
+        <project_file path="..:release/hottestStateResize.html" filetype="html" />
+    </project_folder>
+</flash_project>
